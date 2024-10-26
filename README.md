@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/mCnLzTS/Black-Yellow-Business-Facebook-Cover.png" alt="Black-Yellow-Business-Facebook-Cover" border="0" />
+  <a href="https://ibb.co.com/4ZzrnZ8"><img src="https://i.ibb.co.com/pvcFBvf/Orange-and-Blue-Bold-Marketing-Facebook-Cover.png" alt="Orange-and-Blue-Bold-Marketing-Facebook-Cover" border="0"></a>
 </div>
 
 <div align="center">
