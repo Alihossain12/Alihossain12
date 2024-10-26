@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://ibb.co.com/tM07CK3" alt="cover">
+  <img src="https://i.ibb.co.com/mCnLzTS/Black-Yellow-Business-Facebook-Cover.png" alt="Black-Yellow-Business-Facebook-Cover" border="0" />
+</div>
 
 <div align="center">
   <a href="#" target="_blank">
