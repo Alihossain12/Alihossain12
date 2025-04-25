@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm in a New Job at MAK Tech Solution.<br><br>- 🔭 <br>- 📚 I'm currently learning more advanced theme and plugin development.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
+<p align="left">I'm in a New Job at MAK Tech Solution.<br><br>- 🔭 I’m a WordPress theme and plugin Joniyor Developer.<br>- 📚 I'm currently learning more advanced theme and plugin development.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
 
 ###
 
