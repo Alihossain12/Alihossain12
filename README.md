@@ -24,11 +24,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🚀 About Me</h3>
 
-###
+<p align="left">
+I'm <strong>Ali Hossain</strong>, a passionate <strong>WordPress Developer & Plugin Developer</strong> based in Bangladesh and currently working at <strong>MAK Tech Solution</strong>.<br><br>
 
-<p align="left">I'm in a New Job at MAK Tech Solution.<br><br>- 🔭 I'm a WordPress theme and plugin developer.<br>- 📚 I'm currently learning more advanced theme and plugin development.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
+💼 I build high-quality <strong>WordPress Themes, Custom Plugins, Elementor Widgets, WooCommerce Solutions, and Dynamic Websites</strong> with a strong focus on performance, security, and scalability.<br><br>
+
+📖 I'm constantly learning advanced WordPress development, modern PHP, JavaScript, REST APIs, and best practices to create faster, smarter, and more reliable web applications.<br><br>
+
+⚡ My goal is to transform ideas into powerful digital solutions through clean code, creative thinking, and continuous innovation.
+</p>
 
 ###
 
