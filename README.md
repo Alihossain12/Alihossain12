@@ -26,16 +26,17 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-<p align="left">
-I'm <strong>Ali Hossain</strong>, a passionate <strong>WordPress Developer & Plugin Developer</strong> based in Bangladesh and currently working at <strong>MAK Tech Solution</strong>.<br><br>
+I'm **MD Ali Hossain**, a passionate **WordPress Plugin & Theme Developer** with **3+ years of professional experience** building custom WordPress solutions. I specialize in developing high-performance plugins, custom themes, WooCommerce integrations, and secure, scalable, and user-friendly web applications that solve real business challenges.
 
-💼 I build high-quality <strong>WordPress Themes, Custom Plugins, Elementor Widgets, WooCommerce Solutions, and Dynamic Websites</strong> with a strong focus on performance, security, and scalability.<br><br>
+My technical expertise includes **PHP, WordPress Core, WooCommerce, MySQL, JavaScript (ES6), jQuery, HTML5, CSS3, Bootstrap, Elementor, REST API, AJAX, Git, GitHub, and Custom Plugin Development**. I enjoy transforming complex requirements into clean, maintainable, and efficient WordPress solutions while following WordPress Coding Standards and industry best practices.
 
-📖 I'm constantly learning advanced WordPress development, modern PHP, JavaScript, REST APIs, and best practices to create faster, smarter, and more reliable web applications.<br><br>
+Throughout my career, I have developed a wide range of custom WordPress solutions, including **booking systems, multi-step quote forms, product review systems, membership platforms, newsletter management tools, dynamic pricing solutions, Elementor widgets, WooCommerce extensions, and business automation plugins**. My primary focus is writing clean, reusable, well-documented, and performance-optimized code that is easy to maintain and scale.
 
-⚡ My goal is to transform ideas into powerful digital solutions through clean code, creative thinking, and continuous innovation.
-</p>
+I am committed to continuous learning and constantly expanding my knowledge of **modern WordPress architecture, advanced PHP, JavaScript, Gutenberg, React, AI-assisted development, and emerging web technologies**. I believe that staying current with the latest tools and best practices is essential for building future-ready WordPress products.
 
+My long-term vision is to become an internationally recognized **WordPress Plugin Developer**, contribute to the **WordPress Open Source Community**, and build innovative plugins that empower businesses and developers worldwide.
+
+I am passionate about solving real-world problems through technology and creating **fast, secure, scalable, and high-quality WordPress solutions** that deliver exceptional user experiences.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
