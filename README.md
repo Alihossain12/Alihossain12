@@ -24,20 +24,53 @@
 
 ###
 
-<h3 align="left">🚀 About Me</h3>
+<h2 align="left">👨‍💻 About Me</h2>
 
-I'm **MD Ali Hossain**, a passionate **WordPress Plugin & Theme Developer** with **3+ years of professional experience** building custom WordPress solutions. I specialize in developing high-performance plugins, custom themes, WooCommerce integrations, and secure, scalable, and user-friendly web applications that solve real business challenges.
+<p align="left">
 
-My technical expertise includes **PHP, WordPress Core, WooCommerce, MySQL, JavaScript (ES6), jQuery, HTML5, CSS3, Bootstrap, Elementor, REST API, AJAX, Git, GitHub, and Custom Plugin Development**. I enjoy transforming complex requirements into clean, maintainable, and efficient WordPress solutions while following WordPress Coding Standards and industry best practices.
+Hi there! 👋 I'm <strong>MD Ali Hossain</strong>, a passionate <strong>WordPress Plugin & Theme Developer</strong> with <strong>3+ years of professional experience</strong> designing and developing high-quality WordPress solutions. I enjoy building secure, scalable, performance-driven, and user-friendly websites, custom plugins, and themes that help businesses grow.
 
-Throughout my career, I have developed a wide range of custom WordPress solutions, including **booking systems, multi-step quote forms, product review systems, membership platforms, newsletter management tools, dynamic pricing solutions, Elementor widgets, WooCommerce extensions, and business automation plugins**. My primary focus is writing clean, reusable, well-documented, and performance-optimized code that is easy to maintain and scale.
+💼 Currently working as a <strong>WordPress Developer at MAK Tech Solution</strong>, where I develop custom WordPress applications, WooCommerce solutions, and advanced business websites tailored to client requirements.
 
-I am committed to continuous learning and constantly expanding my knowledge of **modern WordPress architecture, advanced PHP, JavaScript, Gutenberg, React, AI-assisted development, and emerging web technologies**. I believe that staying current with the latest tools and best practices is essential for building future-ready WordPress products.
+🚀 <strong>My Core Expertise</strong>
 
-My long-term vision is to become an internationally recognized **WordPress Plugin Developer**, contribute to the **WordPress Open Source Community**, and build innovative plugins that empower businesses and developers worldwide.
+✔️ Custom WordPress Plugin Development<br>
+✔️ Custom WordPress Theme Development<br>
+✔️ Elementor & Crocoblock Development<br>
+✔️ WooCommerce Customization & Extensions<br>
+✔️ Responsive UI Development<br>
+✔️ Website Performance Optimization<br>
+✔️ REST API & AJAX Integration<br>
+✔️ Bug Fixing & Website Maintenance
 
-I am passionate about solving real-world problems through technology and creating **fast, secure, scalable, and high-quality WordPress solutions** that deliver exceptional user experiences.
-###
+🛠️ <strong>Tech Stack</strong>
+
+• WordPress<br>
+• Elementor<br>
+• Crocoblock<br>
+• WooCommerce<br>
+• PHP<br>
+• MySQL<br>
+• JavaScript (ES6)<br>
+• jQuery<br>
+• HTML5<br>
+• CSS3<br>
+• Bootstrap<br>
+• Git & GitHub<br>
+• REST API<br>
+• AJAX
+
+📈 Throughout my career, I have successfully developed a wide range of custom WordPress solutions, including booking systems, multi-step quote forms, WooCommerce extensions, product review systems, membership features, newsletter platforms, business automation tools, and dynamic pricing solutions. Every project is built with clean architecture, reusable code, and WordPress Coding Standards to ensure long-term maintainability.
+
+🌱 I continuously invest in learning modern WordPress technologies, advanced PHP, JavaScript, Gutenberg, React, AI-powered development workflows, and emerging web technologies to stay ahead in the ever-evolving web ecosystem.
+
+🎯 <strong>Mission</strong>
+
+To build innovative, scalable, and high-performance WordPress products that provide exceptional user experiences while contributing to the global WordPress open-source community.
+
+💙 <strong>Passionate about creating clean code, solving complex problems, and transforming ideas into powerful WordPress solutions.</strong>
+
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
