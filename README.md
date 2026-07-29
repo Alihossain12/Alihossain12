@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/0R02Bdjm/Chat-GPT-Image-Jul-29-2026-03-09-18-PM.png" alt="Orange-and-Blue-Bold-Marketing-Facebook-Cover" border="0">
+  <img src="https://i.ibb.co.com/R4T4Vvz6/Chat-GPT-Image-Jul-29-2026-05-00-52-PM.png" alt="Orange-and-Blue-Bold-Marketing-Facebook-Cover" border="0">
 </div>
 
 <div align="center">
